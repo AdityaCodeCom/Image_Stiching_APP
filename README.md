@@ -1,5 +1,8 @@
 # **Image Stitching APP (Under Development !!!)**
 
+(Sorry Guys Now the App is not working  as the code is not running at the server !)
+
+(Also link may not work as expected since it was developed long time ago )
     
 ## Points to Remember before Proceeding:
     
@@ -13,7 +16,7 @@
 
    Clone Link ➡ [Click Here👇](https://anvil.works/build#clone:4VSIRZSYHB3T5CXQ=QSFOFYJHDJPVRT2EPOW6IKUK)
 
-4)  Also Finally , I am making this for my practice on the concept.
+4)  Also remember , I am making this for my practice on the concept.
 
 5)  Feel Free to Connect.
 
